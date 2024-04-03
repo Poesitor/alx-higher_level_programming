@@ -4,8 +4,6 @@
 
 
 class Square:
-    tuple_error = "position must be a tuple of 2 positive integers"
-
     """ Represent a square """
 
     def __init__(self, size=0, position=(0, 0)):
