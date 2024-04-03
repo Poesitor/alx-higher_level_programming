@@ -3,7 +3,7 @@
 """ Define classes for a singly-linked list """
 
 
-Class Node:
+class Node:
     """ Represent a node in a singly-linked list """
 
     def __init__(self, data, next_node=None):
